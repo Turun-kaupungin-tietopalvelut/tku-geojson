@@ -7,4 +7,9 @@ Turun ja lähiseudun aluejakoja GeoJSON-muodossa
 https://github.com/Turun-kaupungin-tietopalvelut/tku-geojson/blob/main/tku-postinroalueet.geojson
 
 #### Kuvaus:
-Turun ja lähikuntien postinumeroalueet geojson-muodossa. EPSG:4326. Vuoden 2022 tiedot. Lähde Turun kaupungin avoin WFS-palvelu (https://opaskartta.turku.fi/TeklaOGCWeb/WFS.ashx).
+Turun ja lähikuntien postinumeroalueet geojson-muodossa. Vuoden 2022 tiedot.  EPSG:4326. Lähde Turun kaupungin avoin WFS-palvelu (https://opaskartta.turku.fi/TeklaOGCWeb/WFS.ashx).
+
+### kunnat-2022
+
+#### Kuvaus:
+Suomen kunnat. Vuoden 2022 tiedot. EPSG:4326. Lähde Tilastokeskuksen avoimet paikkatietoaineistot (https://www.stat.fi/org/avoindata/paikkatietoaineistot.html)
