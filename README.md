@@ -4,7 +4,6 @@ Turun ja lähiseudun aluejakoja GeoJSON-muodossa
 ## Tiedostot:
 
 ### tku-postinroalueet
-#### Linkki:
 https://github.com/Turun-kaupungin-tietopalvelut/tku-geojson/blob/main/tku-postinroalueet.geojson
 
 #### Kuvaus:
