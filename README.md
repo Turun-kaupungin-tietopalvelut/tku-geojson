@@ -2,9 +2,9 @@
 Turun ja lähiseudun aluejakoja GeoJSON-muodossa
 
 
-##tku-postinroalueet
-###Linkki:
+## tku-postinroalueet
+### Linkki:
 https://github.com/Turun-kaupungin-tietopalvelut/tku-geojson/blob/main/tku-postinroalueet.geojson
 
-###Kuvaus:
+### Kuvaus:
 Turun ja lähikuntien postinumeroalueet geojson-muodossa. EPSG:4326. Vuoden 2022 tiedot. Lähde Turun kaupungin avoin WFS-palvelu (https://opaskartta.turku.fi/TeklaOGCWeb/WFS.ashx).
