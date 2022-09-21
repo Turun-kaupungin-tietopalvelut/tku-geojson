@@ -20,5 +20,10 @@ Suomen kunnat. Vuoden 2022 tiedot. EPSG:4326. Lähde Tilastokeskuksen avoimet pa
 https://github.com/Turun-kaupungin-tietopalvelut/tku-geojson/blob/main/tku-postinroalueet.geojson
 
 ##### Kuvaus:
-Turun ja lähikuntien postinumeroalueet geojson-muodossa. Vuoden 2022 tiedot.  EPSG:4326. Lähde Turun kaupungin avoin WFS-palvelu (https://opaskartta.turku.fi/TeklaOGCWeb/WFS.ashx).
+Turun ja lähikuntien postinumeroalueet. Vuoden 2022 tiedot.  EPSG:4326. Lähde Turun kaupungin avoin WFS-palvelu (https://opaskartta.turku.fi/TeklaOGCWeb/WFS.ashx).
 
+
+### tku-äänestysalueet
+
+##### Kuvaus:
+Turun ja Kaarinan äänestysalueet. EPSG:4326. Lähde Turun kaupungin avoin WFS-palvelu.
