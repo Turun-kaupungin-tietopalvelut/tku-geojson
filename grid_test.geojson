@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"name": "aj_kaupunginosat_20200422_area",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [{'type': 'Feature', 'properties': {'id': 'abc'}, 'geometry': {'type': 'Polygon', 'coordinates': [[[60.33095305056488, 22.179971411223715], [60.33318981080149, 22.179640839636168], [60.33335363578417, 22.184152529704182], [60.331116860751806, 22.184482794809202]]]}}]
+}
